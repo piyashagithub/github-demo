@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDonationManagementSystem", "FoodDonationManagementSystem\FoodDonationManagementSystem.csproj", "{CD323688-BB46-4F9E-840B-E350431FC562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD323688-BB46-4F9E-840B-E350431FC562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD323688-BB46-4F9E-840B-E350431FC562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD323688-BB46-4F9E-840B-E350431FC562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD323688-BB46-4F9E-840B-E350431FC562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D8A336-DD9D-4EAA-AE08-F0A401F726E8}
+	EndGlobalSection
+EndGlobal
